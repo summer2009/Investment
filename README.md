@@ -1,3 +1,3 @@
 # Investment
 
-# [如果](https://github.com/summer2009/myblog/blob/gh-pages/jipulin.md)
+# [如果](http://summer2009.github.io/myblog/jipulin.html)
