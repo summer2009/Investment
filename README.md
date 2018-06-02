@@ -8,4 +8,4 @@
 
   + [如果](http://summer2009.github.io/myblog/jipulin.html)
   
-  + [modeles](Investment/modeles.md)
+  + [modeles](modeles.md)
