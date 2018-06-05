@@ -1,10 +1,14 @@
 # Investment
 
-# 分析框架
-  + 产品
-  + 产能
++ 分析框架
+  + 好生意
+  
+  + 好公司
+    + 产品
+    + 产能
+  + 好价格
 
-# 其他
++ 其他
 
   + [如果](http://summer2009.github.io/myblog/jipulin.html)
   
